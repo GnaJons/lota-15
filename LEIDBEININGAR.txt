@@ -1,0 +1,13 @@
+LOTA 15 - VELDI OG ALGEBRA
+
+Opnaðu index.html í nýlegum vafra. Vefheftið er sjálfstætt og þarf ekki nettengingu, viðbætur eða leturþjónustu. Allar 14 nýju myndirnar eru innbyggðar í HTML-skrána og fylgja einnig prentútgáfunni. Enga sérstaka myndamöppu þarf. Hafðu lota15-prent.pdf í sömu möppu svo PDF-tengillinn virki.
+
+Yfirlitið leiðir í ellefu kennslutíma. Neðst í hverjum tíma eru tenglar á fyrri tíma, yfirlit og næsta tíma. Appelsínugul hugtök leiða í skilgreiningar aftast. „Til baka í textann“ skilar þér í hugtakið sem þú smelltir á.
+
+Gátlistinn er sameiginlegur fyrir alla lotuna. Merkingar vistast í sama vafra þegar vafrageymsla er tiltæk. Þær flytjast ekki sjálfkrafa milli tækja, vafra eða mismunandi vefslóða.
+
+Prentun: Opnaðu lota15-prent.pdf. Það er 65 blaðsíður í Letter-stærð, samkvæmt samþykkta stílnum. Sé prentað á A4 má velja að laga að prentanlegu svæði. Þessar skýringarmyndir eru ekki mæliblöð.
+
+Birting: Hægt er að hýsa index.html og PDF-skrána saman. Í Google Sites má fella inn hýsta síðuna. Ef HTML-kóðinn er límdur beint í innfellingu þarf að setja PDF á aðgengilegan stað og laga PDF-tengilinn eða bæta við PDF-hnappi utan rammans. Staðbundnar skrár eru ekki sjálfkrafa birtar á netinu.
+
+KENNARANOTA.txt lýsir yfirferðinni og því hvað fylgir þessari útgáfu.

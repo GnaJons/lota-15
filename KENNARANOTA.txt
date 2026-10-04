@@ -1,0 +1,59 @@
+LOTA 15 - KENNARANÓTA
+Uppfært 4. október 2026; upphafleg stílyfirferð 3. október 2026
+
+Viðmið og umfang
+
+Vefheftið og prent-PDF fylgja föstum, samþykktum Lota 28 stíl. Upprunalegar skrár í OneDrive voru ekki yfirskrifaðar. Afhent er nýtt vinnuafrit með index.html, lota15-prent.pdf og leiðbeiningum.
+
+Nýjasta innsenda HTML-skráin var aðalheimild um efni. Hún inniheldur síðari leiðréttingar en lota15.tex frá 28. september. Innsenda LaTeX-skráin var notuð til samanburðar; hún er óbreytt og fylgir ekki sem uppfærð útgáfa. Prent-PDF er myndað beint úr afhenta HTML-skjalinu.
+
+Varðveitt efni
+
+Ellefu tímar, 75 sýnidæmi, 23 skýringarmyndir, 31 gátlistaatriði og 43 hugtök. Efnisröð, tölur, lokasvör og síðari leiðréttingar HTML-heftisins haldast. Meðal annars haldast leiðbeiningar um notkun vasareiknis fyrir ferningsrætur, nýjasta efni 8. tíma og lituð innsetning í dæmum 41 og 52. Innri auðkenni sýnidæma, mynda, hugtakatengla og gátlistareita haldast. Eldri aðaltenglar á yfirlit, gátlista og hugtök eiga áfram samsvarandi áfangastaði.
+
+Útlit og uppsetning
+
+Samþykkt CSS og flakkskóði úr viðbótinni eru notuð óbreytt, fyrir utan lotubundinn geymslulykil. Forsíða, letur, litir, dæmahausar, vinstri litabrúnir, reglureitir, áminningar, vatnsmerki og prentstillingar fylgja viðmiðinu. Yfirlitið skiptist í þrjá efnishópa svo ellefu tíma yfirlit rúmist í prenti. Hugtök eru sýnileg aftast og skipt í sex hópa fyrir prentflæði.
+
+Stærðfræðin er raunverulegt MathML með varðveittum TeX-upplýsingum. Reikningarnir eru vinstrijafnaðir. Stuttar reiknikeðjur eru á einni línu; lengri reikningum er skipt við jafnaðarmerki. Óútskiptar stærðfræðiteikningar haldast sem SVG-myndir. Innsendar PNG-myndir eru innbyggðar í upprunalegum gæðum með varðveittum hlutföllum.
+
+Efnislegar lagfæringar
+
+Skilyrði um nefnara sem er ekki núll eru gerð sýnileg í dæmum 4, 63, 74 og 75. Í dæmi 74 eru skilyrðin a ≠ 0 og b ≠ 0 í fyrra broti og z ≠ 0 í seinna broti. Í síðasta broti dæmis 75 þarf t ≠ 0. Orðalag um reikninga „vinstra/hægra megin“ var lagað að því að reikningarnir birtast í röð. Dæmi 53 er sett upp sem þrjár skýrar orðalýsingar með samsvarandi stæðum.
+
+Prófanir
+
+Útlitspróf viðbótarinnar stóðst: CSS, hegðun, kaflaröð, innri tenglar og nákvæmt vatnsmerki. Birting var skoðuð við 1360 px og 390 px. Engin yfirfylling allrar síðunnar fannst. Prófað var kaflaflakk með lyklaborði, hugtakatengill og nákvæmur til-baka-áfangastaður, vistun gátlista eftir endurhleðslu, gátlisti með óvirka vafrageymslu, sýnilegar skilgreiningar án JavaScript og niðurhal PDF yfir staðbundna vefslóð.
+
+Allar 65 PDF-síðurnar voru skoðaðar í yfirlitsmyndum og valdar síður einnig í stærri birtingu. Allar 23 skýringarmyndir voru skoðaðar sérstaklega. PDF er í Letter-stærð og rétt vatnsmerki er á hverri síðu. Engir textastafir fundust utan prentflatar. Stærðfræðitákn í enduruppsettum reikningum voru borin saman við upprunann; engin töpuðust. Lokasvör og efni voru yfirfarin.
+
+Gátlisti og birting
+
+Auðkenni reita og fyrri geymslulykill eru varðveitt. Gamla HTML-útgáfan geymdi merkingar sem lista en fasti Lota 28 kóðinn notar annað geymslusnið. Eldri vaframerkingar flytjast því ekki sjálfkrafa í nýja viðmótið; skrá þarf þær áður en áður notað hefti er uppfært og merkja aftur. Engar slíkar persónulegar merkingar fylgdu innsendu skránum.
+
+Heftið hefur verið prófað staðbundið. Það hefur ekki verið birt á Google Sites eða annarri hýsingu. Ekkert sérstakt heimaverkefni eða formúlublað fylgdi innsendu skránum og ekkert slíkt var flutt úr Lotu 28.
+
+Forsíðumynd leiðrétt eftir ábendingu kennara: óskýrar skálínur voru fjarlægðar. Ný mynd sýnir níu einingar í 3 × 3 reitaneti og flatarmálsskiptinguna 6(x + 4) = 6x + 24.
+
+
+Myndir kennara — 4. október 2026
+
+Allar 14 innsendar myndir eru komnar á staðina sem tilgreindir eru í LESTU_MIG.txt, miðað við tíma og sýnileg dæmanúmer. Átta eldri skýringarmyndum var skipt út og sex nýjum bætt við. Upprunalegir myndabætar eru varðveittir í HTML; myndirnar eru hvorki skornar né teygðar. Tvær myndir eru örlítið minni í birtingu svo skýringar haldist með þeim í prenti.
+
+Staðsetningar í þessari útgáfu:
+01 · Dæla og geymir: 3. tími, dæmi 17, bls. 15.
+02 · Selt og skilað: 3. tími, dæmi 18, bls. 16.
+03 · Bollusala: 3. tími, dæmi 19, bls. 17.
+04 · Framleitt, sent og selt: 3. tími, við dæmi 20, bls. 19.
+05 · Líkir liðir: 4. tími, fyrir dæmi 22, bls. 20.
+06 · Dreifiregla: 6. tími, fyrir dæmi 32, bls. 26.
+07 · Leigukostnaður: 8. tími, dæmi 47, bls. 33.
+08 · Jafna og jafnvægi: 8. tími, dæmi 48, bls. 34.
+09 · Fjórir miðar: 9. tími, dæmi 60, bls. 42.
+10 · Svali og samloka: 10. tími, upphaf dæmis 65, bls. 47.
+11 · Settin og stæðurnar: 10. tími, framhald dæmis 65, bls. 48.
+12 · Meðalverð bóka: 10. tími, dæmi 66, bls. 49.
+13 · Þrefalt magn: 10. tími, við dæmi 67, bls. 51.
+14 · Þáttun með flatarmáli: 11. tími, fyrir dæmi 68, bls. 52.
+
+Staðfest var að allar 14 myndir hlaðast, haldi réttum hlutföllum og rúmist innan efnisflatar við 1360 og 390 punkta skjábreidd. Allar 881 MathML-stærðfræðiseiningarnar eru óbreyttar frá síðustu útgáfu. Fasti stíllinn og flakkskóðinn stóðust samanburð við samþykkt viðmið. Prentútgáfan er 65 síður; myndir eru heilar og engir textastafir fundust utan prentflatar. HTML og PDF innihalda sömu myndir.
