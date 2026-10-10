@@ -1,13 +1,15 @@
 LOTA 15 - VELDI OG ALGEBRA
 
-Opnaðu index.html í nýlegum vafra. Vefheftið er sjálfstætt og þarf ekki nettengingu, viðbætur eða leturþjónustu. Allar 14 nýju myndirnar eru innbyggðar í HTML-skrána og fylgja einnig prentútgáfunni. Enga sérstaka myndamöppu þarf. Hafðu lota15-prent.pdf í sömu möppu svo PDF-tengillinn virki.
+Afþjappaðu ZIP-pakkanum og opnaðu index.html í nýlegum vafra. Hafðu myndbond-möppuna og lota15-prent.pdf við hlið index.html. Þá virka myndbandsspilararnir og PDF-tengillinn án nettengingar. Allar 14 pennamyndirnar eru innbyggðar í HTML-skrána.
+
+Myndbönd: Smelltu á línu sem byrjar á „Myndband“ við viðeigandi dæmi og ýttu á spilunarhnappinn. Hægt er að stöðva, spóla og stækka myndbandið yfir allan skjáinn. Tengill undir spilaranum opnar myndbandið í sér glugga. Myndböndin níu eru í tímum 2 og 4-11 og fara ekki sjálfkrafa í gang. Þau sýna skýringar með texta og hreyfingu.
 
 Yfirlitið leiðir í ellefu kennslutíma. Neðst í hverjum tíma eru tenglar á fyrri tíma, yfirlit og næsta tíma. Appelsínugul hugtök leiða í skilgreiningar aftast. „Til baka í textann“ skilar þér í hugtakið sem þú smelltir á.
 
 Gátlistinn er sameiginlegur fyrir alla lotuna. Merkingar vistast í sama vafra þegar vafrageymsla er tiltæk. Þær flytjast ekki sjálfkrafa milli tækja, vafra eða mismunandi vefslóða.
 
-Prentun: Opnaðu lota15-prent.pdf. Það er 65 blaðsíður í Letter-stærð, samkvæmt samþykkta stílnum. Sé prentað á A4 má velja að laga að prentanlegu svæði. Þessar skýringarmyndir eru ekki mæliblöð.
+Prentun: Opnaðu lota15-prent.pdf. Það er 64 blaðsíður í Letter-stærð, samkvæmt samþykkta stílnum. Sé prentað á A4 má velja að laga að prentanlegu svæði. Þessar skýringarmyndir eru ekki mæliblöð. Myndbandsspilarar eru aðeins í vefheftinu og birtast ekki við prentun.
 
-Birting: Hægt er að hýsa index.html og PDF-skrána saman. Í Google Sites má fella inn hýsta síðuna. Ef HTML-kóðinn er límdur beint í innfellingu þarf að setja PDF á aðgengilegan stað og laga PDF-tengilinn eða bæta við PDF-hnappi utan rammans. Staðbundnar skrár eru ekki sjálfkrafa birtar á netinu.
+Birting: Hægt er að hýsa index.html, myndbond-möppuna og PDF-skrána saman. Í Google Sites má fella inn hýsta síðuna. Ef HTML-kóðinn er límdur beint í innfellingu þarf að hýsa myndbönd, forskoðunarmyndir og PDF sérstaklega og laga slóðir. Staðbundnar skrár eru ekki sjálfkrafa birtar á netinu.
 
-KENNARANOTA.txt lýsir yfirferðinni og því hvað fylgir þessari útgáfu.
+Manim-frumkóðinn fylgir í manim-kodi fyrir síðari breytingar á myndböndunum. Ekki þarf að opna eða keyra hann til að nota vefheftið. KENNARANOTA.txt lýsir yfirferðinni og staðsetningum myndbandanna.

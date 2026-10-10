@@ -1,5 +1,5 @@
 LOTA 15 - KENNARANÓTA
-Uppfært 4. október 2026; upphafleg stílyfirferð 3. október 2026
+Uppfært 10. október 2026; upphafleg stílyfirferð 3. október 2026
 
 Viðmið og umfang
 
@@ -13,7 +13,7 @@ Ellefu tímar, 75 sýnidæmi, 23 skýringarmyndir, 31 gátlistaatriði og 43 hug
 
 Útlit og uppsetning
 
-Samþykkt CSS og flakkskóði úr viðbótinni eru notuð óbreytt, fyrir utan lotubundinn geymslulykil. Forsíða, letur, litir, dæmahausar, vinstri litabrúnir, reglureitir, áminningar, vatnsmerki og prentstillingar fylgja viðmiðinu. Yfirlitið skiptist í þrjá efnishópa svo ellefu tíma yfirlit rúmist í prenti. Hugtök eru sýnileg aftast og skipt í sex hópa fyrir prentflæði.
+Samþykktur grunnstíll og flakkskóði úr viðbótinni eru varðveitt. Við bætist aðeins afmörkuð stærðarstilling fyrir innsendar myndir samkvæmt beinni ósk kennara 10. október; lotubundinn geymslulykill er óbreyttur. Forsíða, letur, litir, dæmahausar, vinstri litabrúnir, reglureitir, áminningar, vatnsmerki og prentstillingar fylgja viðmiðinu. Yfirlitið skiptist í þrjá efnishópa svo ellefu tíma yfirlit rúmist í prenti. Hugtök eru sýnileg aftast og skipt í sex hópa fyrir prentflæði.
 
 Stærðfræðin er raunverulegt MathML með varðveittum TeX-upplýsingum. Reikningarnir eru vinstrijafnaðir. Stuttar reiknikeðjur eru á einni línu; lengri reikningum er skipt við jafnaðarmerki. Óútskiptar stærðfræðiteikningar haldast sem SVG-myndir. Innsendar PNG-myndir eru innbyggðar í upprunalegum gæðum með varðveittum hlutföllum.
 
@@ -25,7 +25,7 @@ Prófanir
 
 Útlitspróf viðbótarinnar stóðst: CSS, hegðun, kaflaröð, innri tenglar og nákvæmt vatnsmerki. Birting var skoðuð við 1360 px og 390 px. Engin yfirfylling allrar síðunnar fannst. Prófað var kaflaflakk með lyklaborði, hugtakatengill og nákvæmur til-baka-áfangastaður, vistun gátlista eftir endurhleðslu, gátlisti með óvirka vafrageymslu, sýnilegar skilgreiningar án JavaScript og niðurhal PDF yfir staðbundna vefslóð.
 
-Allar 65 PDF-síðurnar voru skoðaðar í yfirlitsmyndum og valdar síður einnig í stærri birtingu. Allar 23 skýringarmyndir voru skoðaðar sérstaklega. PDF er í Letter-stærð og rétt vatnsmerki er á hverri síðu. Engir textastafir fundust utan prentflatar. Stærðfræðitákn í enduruppsettum reikningum voru borin saman við upprunann; engin töpuðust. Lokasvör og efni voru yfirfarin.
+Allar 64 PDF-síðurnar voru skoðaðar í yfirlitsmyndum og valdar síður einnig í stærri birtingu. Allar 23 skýringarmyndir voru skoðaðar sérstaklega. PDF er í Letter-stærð og rétt vatnsmerki er á hverri síðu. Engir textastafir fundust utan prentflatar. Stærðfræðitákn í enduruppsettum reikningum voru borin saman við upprunann; engin töpuðust. Lokasvör og efni voru yfirfarin.
 
 Gátlisti og birting
 
@@ -38,13 +38,13 @@ Forsíðumynd leiðrétt eftir ábendingu kennara: óskýrar skálínur voru fja
 
 Myndir kennara — 4. október 2026
 
-Allar 14 innsendar myndir eru komnar á staðina sem tilgreindir eru í LESTU_MIG.txt, miðað við tíma og sýnileg dæmanúmer. Átta eldri skýringarmyndum var skipt út og sex nýjum bætt við. Upprunalegir myndabætar eru varðveittir í HTML; myndirnar eru hvorki skornar né teygðar. Tvær myndir eru örlítið minni í birtingu svo skýringar haldist með þeim í prenti.
+Allar 14 innsendar myndir eru komnar á staðina sem tilgreindir eru í LESTU_MIG.txt, miðað við tíma og sýnileg dæmanúmer. Átta eldri skýringarmyndum var skipt út og sex nýjum bætt við. PNG-skrárnar eru innbyggðar óbreyttar í HTML; myndirnar eru hvorki skornar né teygðar. Birtingarstærð allra fjórtán mynda var minnkuð 10. október.
 
 Staðsetningar í þessari útgáfu:
 01 · Dæla og geymir: 3. tími, dæmi 17, bls. 15.
 02 · Selt og skilað: 3. tími, dæmi 18, bls. 16.
 03 · Bollusala: 3. tími, dæmi 19, bls. 17.
-04 · Framleitt, sent og selt: 3. tími, við dæmi 20, bls. 19.
+04 · Framleitt, sent og selt: 3. tími, við dæmi 20, bls. 18.
 05 · Líkir liðir: 4. tími, fyrir dæmi 22, bls. 20.
 06 · Dreifiregla: 6. tími, fyrir dæmi 32, bls. 26.
 07 · Leigukostnaður: 8. tími, dæmi 47, bls. 33.
@@ -53,7 +53,33 @@ Staðsetningar í þessari útgáfu:
 10 · Svali og samloka: 10. tími, upphaf dæmis 65, bls. 47.
 11 · Settin og stæðurnar: 10. tími, framhald dæmis 65, bls. 48.
 12 · Meðalverð bóka: 10. tími, dæmi 66, bls. 49.
-13 · Þrefalt magn: 10. tími, við dæmi 67, bls. 51.
-14 · Þáttun með flatarmáli: 11. tími, fyrir dæmi 68, bls. 52.
+13 · Þrefalt magn: 10. tími, við dæmi 67, bls. 50.
+14 · Þáttun með flatarmáli: 11. tími, fyrir dæmi 68, bls. 51.
 
-Staðfest var að allar 14 myndir hlaðast, haldi réttum hlutföllum og rúmist innan efnisflatar við 1360 og 390 punkta skjábreidd. Allar 881 MathML-stærðfræðiseiningarnar eru óbreyttar frá síðustu útgáfu. Fasti stíllinn og flakkskóðinn stóðust samanburð við samþykkt viðmið. Prentútgáfan er 65 síður; myndir eru heilar og engir textastafir fundust utan prentflatar. HTML og PDF innihalda sömu myndir.
+Staðfest var að allar 14 myndir hlaðast, haldi réttum hlutföllum og rúmist innan efnisflatar við 1360 og 390 punkta skjábreidd. Allar 881 MathML-stærðfræðiseiningarnar eru óbreyttar frá síðustu útgáfu. Fasti stíllinn og flakkskóðinn stóðust samanburð við samþykkt viðmið. Prentútgáfan er 64 síður; myndir eru heilar og engir textastafir fundust utan prentflatar. HTML og PDF innihalda sömu myndir.
+
+
+Minni myndir - 10. október 2026
+
+Að beiðni kennara taka innsendar myndir nú 66% af textabreiddinni í tölvu og í prenti. Flestar myndir minnka um 34% á breidd og hæð; geymis- og þáttunarmyndin, sem voru þegar örlítið minni, minnka um 22%. Á þröngum símaskjá fá myndir að nýta tiltæka breidd svo merkingar haldist læsilegar. Myndgæði og hlutföll eru varðveitt.
+
+Við þessa stærðarbreytingu voru efni, reikningar, auðkenni, gátlisti og flakk óbreytt. Stærðarbreytingin nær eingöngu til þessara 14 mynda og svarar beinni ósk kennara. Skjá- og símabirting var prófuð og uppfært prentflæði skoðað. Prentútgáfan er 64 síður.
+
+
+Myndbönd - 10. október 2026
+
+Níu innsendar MP4-skrár eru tengdar við samsvarandi sýnidæmi. Fellanlegur spilari sýnir heiti og lengd myndbands, skýringartexta og tengil á myndband í sér glugga. Myndbandið hleðst til spilunar þegar notandinn ýtir á spilunarhnappinn; engin sjálfvirk spilun er virk. Allar skrár fylgja ZIP-pakkanum. Upprunalegu MP4-skrárnar og Manim-frumkóðinn voru afrituð óbreytt. Frumkóðinn var lesinn til að para myndbönd við efni, en var ekki keyrður. Forskoðunarmyndir eru rammar úr myndböndunum.
+
+2. tími · Brotalínan breytir reikniröðinni · 1:27 · við dæmi 10.
+4. tími · Líkir liðir · 1:43 · við dæmi 22, 23, 24.
+5. tími · Plús og mínus við sviga · 1:24 · við dæmi 27.
+6. tími · Dreifiregla · 1:29 · við dæmi 32, 33.
+7. tími · Gildi stæðna · 1:39 · við dæmi 40, 41.
+8. tími · Jafna og jafnvægi · 1:35 · við dæmi 48.
+9. tími · Frá orðum að stæðu · 1:25 · við dæmi 53.
+10. tími · Prósentur og ný heild · 1:29 · við dæmi 64.
+11. tími · Þáttun og stytting · 1:40 · við dæmi 72, 73.
+
+Staðfest var að öll níu myndböndin spili, opnist með lyklaborði og séu í réttum tímum við rétt dæmi. Spilararnir rúmast við 1360 og 390 punkta skjábreidd. Þrír rammar úr hverju myndbandi voru skoðaðir. Texti, reikningar, myndir, minni myndastærðir, gátlisti og flakkskóði úr síðustu útgáfu eru varðveitt. Viðbót við stílinn nær eingöngu til spilara myndbandanna.
+
+Myndbandahlutarnir eru faldir í prenti. Samanburður á prentbirtingu staðfesti að allir eldri efnisreitir halda sömu stærð og staðsetningu. Núverandi 64 síðna prent-PDF er því óbreytt og fylgir áfram.
