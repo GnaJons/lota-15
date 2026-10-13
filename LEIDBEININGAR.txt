@@ -1,31 +1,25 @@
 LOTA 15 - VELDI OG ALGEBRA
-Uppfært 13. október 2026
+Uppfært 13. október 2026.
 
-SKRÁRNAR
+Afþjappaðu ZIP-skránni og opnaðu index.html í vafra.
+Haltu myndbond-möppunni og lota15-prent.pdf við hlið index.html.
+Myndir eru innbyggðar í vefheftið. Net þarf ekki til að lesa efnið.
 
-index.html - uppfært vefhefti.
-lota15-prent.pdf - samræmd prentútgáfa, 77 síður.
-KENNARANOTA.txt - yfirlit yfir breytingar og yfirferð.
+Veldu tíma í yfirlitinu. Smelltu á appelsínugult hugtak til að lesa
+skilgreininguna; „Til baka í textann“ flytur þig á sama stað aftur.
+Gátlistamerkingar vistast í sama vafra þegar vafrageymsla er tiltæk.
 
-UPPFÆRA FYRIRLIGGJANDI VEF
+Myndböndin níu eru í lokuðum reitum við viðeigandi dæmi. Smelltu
+á fyrirsögn reitsins og veldu síðan spilun. Einnig má opna reit með
+lyklaborði. Myndbandareitir birtast ekki í prentútgáfunni.
 
-1. Afþjappaðu ZIP-pakkanum.
-2. Skiptu út index.html og lota15-prent.pdf á sama stað og fyrri útgáfan er.
-3. Haltu núverandi myndbond-möppu við hlið þessara skráa.
-4. Opnaðu síðuna og endurhladdu henni. Ef eldri útgáfan birtist enn má prófa Ctrl+F5.
+Notaðu „Sækja PDF til prentunar“ fyrir samræmdu prentútgáfuna.
+PDF er á Letter-síðum; veldu aðlögun að pappír ef prentarinn notar A4.
+Litir hjálpa við reikniaðgerðir, en tákn og skýringar duga í svarthvítu.
+Grænbláir svigar sýna innsett tölugildi. Tvær línur merkja lokasvar.
 
-Myndbandsskrárnar níu fylgdu ekki viðhengjunum sem voru yfirfarin og eru því ekki í þessum uppfærslupakka. Tenglar og lokaðir myndbandareitir eru varðveittir. Núverandi myndbond-mappa þarf áfram að vera á sínum stað. Allar pennamyndir eru innbyggðar í HTML-skrána.
+ZIP inniheldur einnig frumkóða myndbandanna í manim-kodi-möppunni.
 
-NOTKUN HEFTISINS
-
-Hvert sýnidæmi byrjar á skýrum fyrirmælum undir „Verkefni“. Skýringarnar segja hvað er gert og hvers vegna. Reikniskref hafa verið útfærð nánar þar sem stökk voru of stór.
-
-Litalykill er í upphafi fyrsta tíma. Blátt merkir samlagningu, vínrautt frádrátt og mínusmerki, grænt margföldun, fjólublátt deilingu og appelsínugult veldi og rætur. Litirnir eru hjálpartæki; tákn og orðaskýringar virka líka í svarthvítri prentun.
-
-Yfirlitið leiðir í ellefu tíma. Appelsínugul, undirstrikuð hugtök tengjast skilgreiningum aftast. „Til baka í textann“ skilar þér aftur á staðinn þar sem þú smelltir. Gátlistamerkingar vistast í sama vafra þegar vafrageymsla er tiltæk; þær flytjast ekki sjálfkrafa milli tækja eða vefslóða.
-
-PRENTUN
-
-Opnaðu lota15-prent.pdf. PDF er í Letter-stærð samkvæmt samþykkta stílnum. Við prentun á A4 má laga að prentanlegu svæði. Myndirnar eru ekki mæliblöð. Litir fylgja PDF en efnið má einnig prenta í svarthvítu. Myndbandareitir birtast ekki í prentútgáfunni.
-
-Heftið hefur verið prófað staðbundið. Þessi afhending birtir ekki sjálfkrafa nýja útgáfu á vefnum.
+Ef heftið er síðar sett á vef þurfa HTML, PDF og myndbond-mappan að
+halda sömu innbyrðis slóðum. Staðbundnar skrár eru ekki sjálfkrafa
+birtar á Google Sites. Kennaranóta geymir upplýsingar um útgáfuna.
