@@ -1,85 +1,56 @@
 LOTA 15 - KENNARANÓTA
-Uppfært 10. október 2026; upphafleg stílyfirferð 3. október 2026
+Uppfært 13. október 2026
 
-Viðmið og umfang
+UMFANG
 
-Vefheftið og prent-PDF fylgja föstum, samþykktum Lota 28 stíl. Upprunalegar skrár í OneDrive voru ekki yfirskrifaðar. Afhent er nýtt vinnuafrit með index.html, lota15-prent.pdf og leiðbeiningum.
+Nýjustu innsendar skrár, index(20261013-114351).html og lota15-prent(3).pdf, voru viðmið. Beiðnin var að skýra spurningar, útskýra hvers vegna aðgerðir eru framkvæmdar og litakóða reikninga. Yfirferðin nær til allra ellefu tímanna og allra 75 sýnidæmanna.
 
-Nýjasta innsenda HTML-skráin var aðalheimild um efni. Hún inniheldur síðari leiðréttingar en lota15.tex frá 28. september. Innsenda LaTeX-skráin var notuð til samanburðar; hún er óbreytt og fylgir ekki sem uppfærð útgáfa. Prent-PDF er myndað beint úr afhenta HTML-skjalinu.
+BREYTINGAR Á EFNI
 
-Varðveitt efni
+Öll 75 sýnidæmin hafa nú skýr fyrirmæli áður en lausnin kemur. Þar er tilgreint hvort eigi að reikna gildi, einfalda, bera saman, finna óþekkta stærð, mynda stæðu eða þátta. Orðadæmi segja sérstaklega hvað á að finna.
 
-Ellefu tímar, 75 sýnidæmi, 23 skýringarmyndir, 31 gátlistaatriði og 43 hugtök. Efnisröð, tölur, lokasvör og síðari leiðréttingar HTML-heftisins haldast. Meðal annars haldast leiðbeiningar um notkun vasareiknis fyrir ferningsrætur, nýjasta efni 8. tíma og lituð innsetning í dæmum 41 og 52. Innri auðkenni sýnidæma, mynda, hugtakatengla og gátlistareita haldast. Eldri aðaltenglar á yfirlit, gátlista og hugtök eiga áfram samsvarandi áfangastaði.
+Í 48 dæmum bættist við afmörkuð skýring á vali aðgerða. Fyrirliggjandi gagnlegar skýringar haldast og endurtekningar voru fjarlægðar þar sem þær trufluðu flæðið. Stökk í reikningum voru minnkuð með milliskrefum, meðal annars í dæmum 2, 5, 8, 11, 13, 16, 35, 36, 41, 42, 43, 46 og 52.
 
-Útlit og uppsetning
+Dæmi 15: Tölurnar eru í röðinni 23, 234, 2345 og viðbætta tilvikið 23456. Skýrt er að margfalda með níu og bæta síðasta tölustafnum við. Mynstrið er nefnt, margföldunarreglan 9n = 10n - n útskýrð í orðum og munur á tilvikaprófun og almennri sönnun skýrður.
 
-Samþykktur grunnstíll og flakkskóði úr viðbótinni eru varðveitt. Við bætist aðeins afmörkuð stærðarstilling fyrir innsendar myndir samkvæmt beinni ósk kennara 10. október; lotubundinn geymslulykill er óbreyttur. Forsíða, letur, litir, dæmahausar, vinstri litabrúnir, reglureitir, áminningar, vatnsmerki og prentstillingar fylgja viðmiðinu. Yfirlitið skiptist í þrjá efnishópa svo ellefu tíma yfirlit rúmist í prenti. Hugtök eru sýnileg aftast og skipt í sex hópa fyrir prentflæði.
+Dæmi 49: Val á skiptingu miðliðsins, þáttun í tveimur hópum, núllmargfeldi og val á heiltölulausn eru aðgreind. Báðar lausnir jöfnunnar koma fram áður en heiltölulausnin er valin.
 
-Stærðfræðin er raunverulegt MathML með varðveittum TeX-upplýsingum. Reikningarnir eru vinstrijafnaðir. Stuttar reiknikeðjur eru á einni línu; lengri reikningum er skipt við jafnaðarmerki. Óútskiptar stærðfræðiteikningar haldast sem SVG-myndir. Innsendar PNG-myndir eru innbyggðar í upprunalegum gæðum með varðveittum hlutföllum.
+Dæmi 52: Innsetning, margföldun og deiling tugvelda og samlagning á sama veldisformi eru skýrð í fjórum liðum. Gildin haldast 0,03 og 60000.
 
-Efnislegar lagfæringar
+Dæmi 53: Hver orðalýsing fær eigin stæðu og skýringu á þörf fyrir sviga og röð aðgerða.
 
-Skilyrði um nefnara sem er ekki núll eru gerð sýnileg í dæmum 4, 63, 74 og 75. Í dæmi 74 eru skilyrðin a ≠ 0 og b ≠ 0 í fyrra broti og z ≠ 0 í seinna broti. Í síðasta broti dæmis 75 þarf t ≠ 0. Orðalag um reikninga „vinstra/hægra megin“ var lagað að því að reikningarnir birtast í röð. Dæmi 53 er sett upp sem þrjár skýrar orðalýsingar með samsvarandi stæðum.
+Orðalag um liði og stuðla var samræmt gildandi viðmiðum viðbótarinnar. Nú er notað „Liðir sem má sameina“ og skilgreiningin „Stuðull er talan sem margfaldar bókstafahluta liðar.“ Tákn fyrir margföldun með tugveldi er ×. Brotalínur, reiknireglur, skilyrði og einingar eru varðveitt.
 
-Prófanir
+LITAKÓÐUN
 
-Útlitspróf viðbótarinnar stóðst: CSS, hegðun, kaflaröð, innri tenglar og nákvæmt vatnsmerki. Birting var skoðuð við 1360 px og 390 px. Engin yfirfylling allrar síðunnar fannst. Prófað var kaflaflakk með lyklaborði, hugtakatengill og nákvæmur til-baka-áfangastaður, vistun gátlista eftir endurhleðslu, gátlisti með óvirka vafrageymslu, sýnilegar skilgreiningar án JavaScript og niðurhal PDF yfir staðbundna vefslóð.
+Blátt: samlagning (+).
+Vínrautt: frádráttur og mínusmerki (-).
+Grænt: margföldun (punktur eða ×).
+Fjólublátt: deiling, sýnd með brotastriki.
+Appelsínugult: veldisvísar og rótartákn.
 
-Allar 64 PDF-síðurnar voru skoðaðar í yfirlitsmyndum og valdar síður einnig í stærri birtingu. Allar 23 skýringarmyndir voru skoðaðar sérstaklega. PDF er í Letter-stærð og rétt vatnsmerki er á hverri síðu. Engir textastafir fundust utan prentflatar. Stærðfræðitákn í enduruppsettum reikningum voru borin saman við upprunann; engin töpuðust. Lokasvör og efni voru yfirfarin.
+Litalykill er í upphafi fyrsta tíma. Litir eru viðbót við textann og táknin, ekki eina leiðin til að skilja skrefin. Mínus sem formerki er sérstaklega nefndur. Fyrri sérlitir fyrir x og y í dæmum 41 og 52 voru teknir út svo sama litamerking gildi í öllu heftinu. Skýringar segja í staðinn beint hvaða gildi kemur í stað hverrar breytu.
 
-Gátlisti og birting
+Rótartákn nota samþykktu rúmfræðina með striki yfir alla stæðuna. Innihald hverrar rótar er í einni MathML mrow-einingu. Aðeins liturinn fylgir nýja aðgerðalitalyklinum.
 
-Auðkenni reita og fyrri geymslulykill eru varðveitt. Gamla HTML-útgáfan geymdi merkingar sem lista en fasti Lota 28 kóðinn notar annað geymslusnið. Eldri vaframerkingar flytjast því ekki sjálfkrafa í nýja viðmótið; skrá þarf þær áður en áður notað hefti er uppfært og merkja aftur. Engar slíkar persónulegar merkingar fylgdu innsendu skránum.
+VARÐVEITT SNIÐ OG EFNI
 
-Heftið hefur verið prófað staðbundið. Það hefur ekki verið birt á Google Sites eða annarri hýsingu. Ekkert sérstakt heimaverkefni eða formúlublað fylgdi innsendu skránum og ekkert slíkt var flutt úr Lotu 28.
+Grunn-CSS, letur, stærðir, spássíur, flakk, gátlisti og vatnsmerki fylgja fasta Lotu 28 sniðinu. Fyrri 66% birtingarstærð innsendra mynda á tölvuskjá og í prenti er varðveitt. Allar 14 innbyggðu PNG-myndirnar og allar 10 SVG-einingarnar, þar með talin forsíðumynd, eru óbreyttar. Heftið hefur 23 skýringarmyndir auk forsíðumyndar.
 
-Forsíðumynd leiðrétt eftir ábendingu kennara: óskýrar skálínur voru fjarlægðar. Ný mynd sýnir níu einingar í 3 × 3 reitaneti og flatarmálsskiptinguna 6(x + 4) = 6x + 24.
+Öll 523 fyrri auðkenni eru varðveitt, þar á meðal upprunastaðir hugtakatengla og 31 gátlistareitur. Geymslulykill gátlistans er óbreyttur. Fyrri merkt atriði geta því haldist í sama vafra og á sömu vefslóð.
 
+Litakóðunin er sértæk útlitsviðbót sem kennari bað um. Fullt sjálfvirkt stílpróf bendir því á aukastílblokkir. Þegar beint heimiluðu viðbæturnar tvær (aðgerðalitir og áður samþykkt myndastærð) eru teknar frá í prófunarafriti stenst grunnstíllinn, rótartáknin, hegðunin, kaflaröðin, innri tenglar og vatnsmerki prófið. Varðveittri Lotu 28 fyrirmynd var ekki breytt.
 
-Myndir kennara — 4. október 2026
+PRENT OG PRÓFANIR
 
-Allar 14 innsendar myndir eru komnar á staðina sem tilgreindir eru í LESTU_MIG.txt, miðað við tíma og sýnileg dæmanúmer. Átta eldri skýringarmyndum var skipt út og sex nýjum bætt við. PNG-skrárnar eru innbyggðar óbreyttar í HTML; myndirnar eru hvorki skornar né teygðar. Birtingarstærð allra fjórtán mynda var minnkuð 10. október.
+Prent-PDF er myndað úr uppfærðu HTML og er 77 síður í Letter-stærð. Vatnsmerki og blaðsíðunúmer eru á hverri síðu. Dæmi 52 er skipt í merkingarbæra skrefahópa og skýringarmynd prósentuhækkunar færð að samsvarandi reikningi í dæmi 64. Efnisröðin helst.
 
-Staðsetningar í þessari útgáfu:
-01 · Dæla og geymir: 3. tími, dæmi 17, bls. 15.
-02 · Selt og skilað: 3. tími, dæmi 18, bls. 16.
-03 · Bollusala: 3. tími, dæmi 19, bls. 17.
-04 · Framleitt, sent og selt: 3. tími, við dæmi 20, bls. 18.
-05 · Líkir liðir: 4. tími, fyrir dæmi 22, bls. 20.
-06 · Dreifiregla: 6. tími, fyrir dæmi 32, bls. 26.
-07 · Leigukostnaður: 8. tími, dæmi 47, bls. 33.
-08 · Jafna og jafnvægi: 8. tími, dæmi 48, bls. 34.
-09 · Fjórir miðar: 9. tími, dæmi 60, bls. 42.
-10 · Svali og samloka: 10. tími, upphaf dæmis 65, bls. 47.
-11 · Settin og stæðurnar: 10. tími, framhald dæmis 65, bls. 48.
-12 · Meðalverð bóka: 10. tími, dæmi 66, bls. 49.
-13 · Þrefalt magn: 10. tími, við dæmi 67, bls. 50.
-14 · Þáttun með flatarmáli: 11. tími, fyrir dæmi 68, bls. 51.
+Allar PDF-síður voru skoðaðar í yfirlitsmyndum; lykilsíður með nýjum reikningum, brotum, rótum og litum voru einnig skoðaðar stærri. Vefur var prófaður við 1360 og 390 punkta breidd. Engin yfirfylling allrar síðunnar eða vantaðar innbyggðar myndir fundust. Prófað var hugtak, nákvæmur til-baka-tengill, vistun gátlista eftir endurhleðslu, lyklaborðsopnun myndbandareits og birting fyrirmæla og hugtakaskrár án JavaScript.
 
-Staðfest var að allar 14 myndir hlaðast, haldi réttum hlutföllum og rúmist innan efnisflatar við 1360 og 390 punkta skjábreidd. Allar 881 MathML-stærðfræðiseiningarnar eru óbreyttar frá síðustu útgáfu. Fasti stíllinn og flakkskóðinn stóðust samanburð við samþykkt viðmið. Prentútgáfan er 64 síður; myndir eru heilar og engir textastafir fundust utan prentflatar. HTML og PDF innihalda sömu myndir.
+Stærðfræðin var lesin yfir og reiknikeðjur bornar saman með táknrænum og tölulegum reikningi. Prófun 268 jafnaðarmerkja og þriggja nálgana fann ekkert óvænt misræmi. Vísvitandi ranga reikningnum í dæmi 14 er haldið sem villuleitardæmi og hann skýrt merktur rangur. Prófunin er viðbót við efnisyfirferð, ekki fullyrðing um óskeikulleika.
 
+MYNDBÖND OG BIRTING
 
-Minni myndir - 10. október 2026
+Myndbandsskrárnar níu og Manim-frumkóði fylgdu ekki þessum viðhengjum. Því eru þær skrár ekki í nýja ZIP-pakkanum. Upprunalegar slóðir í myndbond-möppuna og lokaðir spilarareitir eru varðveitt. Opnun reita var prófuð en ekki spilun þeirra myndbandaskráa sem vantaði. Myndböndin hafa ekki verið endurgerð með nýju litakóðuninni.
 
-Að beiðni kennara taka innsendar myndir nú 66% af textabreiddinni í tölvu og í prenti. Flestar myndir minnka um 34% á breidd og hæð; geymis- og þáttunarmyndin, sem voru þegar örlítið minni, minnka um 22%. Á þröngum símaskjá fá myndir að nýta tiltæka breidd svo merkingar haldist læsilegar. Myndgæði og hlutföll eru varðveitt.
-
-Við þessa stærðarbreytingu voru efni, reikningar, auðkenni, gátlisti og flakk óbreytt. Stærðarbreytingin nær eingöngu til þessara 14 mynda og svarar beinni ósk kennara. Skjá- og símabirting var prófuð og uppfært prentflæði skoðað. Prentútgáfan er 64 síður.
-
-
-Myndbönd - 10. október 2026
-
-Níu innsendar MP4-skrár eru tengdar við samsvarandi sýnidæmi. Fellanlegur spilari sýnir heiti og lengd myndbands, skýringartexta og tengil á myndband í sér glugga. Myndbandið hleðst til spilunar þegar notandinn ýtir á spilunarhnappinn; engin sjálfvirk spilun er virk. Allar skrár fylgja ZIP-pakkanum. Upprunalegu MP4-skrárnar og Manim-frumkóðinn voru afrituð óbreytt. Frumkóðinn var lesinn til að para myndbönd við efni, en var ekki keyrður. Forskoðunarmyndir eru rammar úr myndböndunum.
-
-2. tími · Brotalínan breytir reikniröðinni · 1:27 · við dæmi 10.
-4. tími · Líkir liðir · 1:43 · við dæmi 22, 23, 24.
-5. tími · Plús og mínus við sviga · 1:24 · við dæmi 27.
-6. tími · Dreifiregla · 1:29 · við dæmi 32, 33.
-7. tími · Gildi stæðna · 1:39 · við dæmi 40, 41.
-8. tími · Jafna og jafnvægi · 1:35 · við dæmi 48.
-9. tími · Frá orðum að stæðu · 1:25 · við dæmi 53.
-10. tími · Prósentur og ný heild · 1:29 · við dæmi 64.
-11. tími · Þáttun og stytting · 1:40 · við dæmi 72, 73.
-
-Staðfest var að öll níu myndböndin spili, opnist með lyklaborði og séu í réttum tímum við rétt dæmi. Spilararnir rúmast við 1360 og 390 punkta skjábreidd. Þrír rammar úr hverju myndbandi voru skoðaðir. Texti, reikningar, myndir, minni myndastærðir, gátlisti og flakkskóði úr síðustu útgáfu eru varðveitt. Viðbót við stílinn nær eingöngu til spilara myndbandanna.
-
-Myndbandahlutarnir eru faldir í prenti. Samanburður á prentbirtingu staðfesti að allir eldri efnisreitir halda sömu stærð og staðsetningu. Núverandi 64 síðna prent-PDF er því óbreytt og fylgir áfram.
+Við uppfærslu fyrirliggjandi vefs skal skipta út HTML og PDF en halda núverandi myndbond-möppu. Ekki hefur verið birt ný útgáfa á GitHub Pages, Google Sites eða annarri hýsingu. Enginn LaTeX-frumkóði fylgdi þessari beiðni og engin uppfærð LaTeX-útgáfa er afhent.

@@ -1,15 +1,31 @@
 LOTA 15 - VELDI OG ALGEBRA
+Uppfært 13. október 2026
 
-Afþjappaðu ZIP-pakkanum og opnaðu index.html í nýlegum vafra. Hafðu myndbond-möppuna og lota15-prent.pdf við hlið index.html. Þá virka myndbandsspilararnir og PDF-tengillinn án nettengingar. Allar 14 pennamyndirnar eru innbyggðar í HTML-skrána.
+SKRÁRNAR
 
-Myndbönd: Smelltu á línu sem byrjar á „Myndband“ við viðeigandi dæmi og ýttu á spilunarhnappinn. Hægt er að stöðva, spóla og stækka myndbandið yfir allan skjáinn. Tengill undir spilaranum opnar myndbandið í sér glugga. Myndböndin níu eru í tímum 2 og 4-11 og fara ekki sjálfkrafa í gang. Þau sýna skýringar með texta og hreyfingu.
+index.html - uppfært vefhefti.
+lota15-prent.pdf - samræmd prentútgáfa, 77 síður.
+KENNARANOTA.txt - yfirlit yfir breytingar og yfirferð.
 
-Yfirlitið leiðir í ellefu kennslutíma. Neðst í hverjum tíma eru tenglar á fyrri tíma, yfirlit og næsta tíma. Appelsínugul hugtök leiða í skilgreiningar aftast. „Til baka í textann“ skilar þér í hugtakið sem þú smelltir á.
+UPPFÆRA FYRIRLIGGJANDI VEF
 
-Gátlistinn er sameiginlegur fyrir alla lotuna. Merkingar vistast í sama vafra þegar vafrageymsla er tiltæk. Þær flytjast ekki sjálfkrafa milli tækja, vafra eða mismunandi vefslóða.
+1. Afþjappaðu ZIP-pakkanum.
+2. Skiptu út index.html og lota15-prent.pdf á sama stað og fyrri útgáfan er.
+3. Haltu núverandi myndbond-möppu við hlið þessara skráa.
+4. Opnaðu síðuna og endurhladdu henni. Ef eldri útgáfan birtist enn má prófa Ctrl+F5.
 
-Prentun: Opnaðu lota15-prent.pdf. Það er 64 blaðsíður í Letter-stærð, samkvæmt samþykkta stílnum. Sé prentað á A4 má velja að laga að prentanlegu svæði. Þessar skýringarmyndir eru ekki mæliblöð. Myndbandsspilarar eru aðeins í vefheftinu og birtast ekki við prentun.
+Myndbandsskrárnar níu fylgdu ekki viðhengjunum sem voru yfirfarin og eru því ekki í þessum uppfærslupakka. Tenglar og lokaðir myndbandareitir eru varðveittir. Núverandi myndbond-mappa þarf áfram að vera á sínum stað. Allar pennamyndir eru innbyggðar í HTML-skrána.
 
-Birting: Hægt er að hýsa index.html, myndbond-möppuna og PDF-skrána saman. Í Google Sites má fella inn hýsta síðuna. Ef HTML-kóðinn er límdur beint í innfellingu þarf að hýsa myndbönd, forskoðunarmyndir og PDF sérstaklega og laga slóðir. Staðbundnar skrár eru ekki sjálfkrafa birtar á netinu.
+NOTKUN HEFTISINS
 
-Manim-frumkóðinn fylgir í manim-kodi fyrir síðari breytingar á myndböndunum. Ekki þarf að opna eða keyra hann til að nota vefheftið. KENNARANOTA.txt lýsir yfirferðinni og staðsetningum myndbandanna.
+Hvert sýnidæmi byrjar á skýrum fyrirmælum undir „Verkefni“. Skýringarnar segja hvað er gert og hvers vegna. Reikniskref hafa verið útfærð nánar þar sem stökk voru of stór.
+
+Litalykill er í upphafi fyrsta tíma. Blátt merkir samlagningu, vínrautt frádrátt og mínusmerki, grænt margföldun, fjólublátt deilingu og appelsínugult veldi og rætur. Litirnir eru hjálpartæki; tákn og orðaskýringar virka líka í svarthvítri prentun.
+
+Yfirlitið leiðir í ellefu tíma. Appelsínugul, undirstrikuð hugtök tengjast skilgreiningum aftast. „Til baka í textann“ skilar þér aftur á staðinn þar sem þú smelltir. Gátlistamerkingar vistast í sama vafra þegar vafrageymsla er tiltæk; þær flytjast ekki sjálfkrafa milli tækja eða vefslóða.
+
+PRENTUN
+
+Opnaðu lota15-prent.pdf. PDF er í Letter-stærð samkvæmt samþykkta stílnum. Við prentun á A4 má laga að prentanlegu svæði. Myndirnar eru ekki mæliblöð. Litir fylgja PDF en efnið má einnig prenta í svarthvítu. Myndbandareitir birtast ekki í prentútgáfunni.
+
+Heftið hefur verið prófað staðbundið. Þessi afhending birtir ekki sjálfkrafa nýja útgáfu á vefnum.
