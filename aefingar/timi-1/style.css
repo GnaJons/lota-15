@@ -6,3 +6,7 @@
 .equation{font:clamp(27px,4vw,39px)/1.7 Cambria,Georgia,serif;text-align:center;overflow-wrap:anywhere}.equation sup,.math sup{color:var(--orange);font-size:.65em}.fraction{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;line-height:1.35;margin:0 .16em}.fraction>span:first-child{border-bottom:1.5px solid #71558a;padding:0 .18em .1em}.fraction>span+span{padding:.1em .18em 0}
 .missing{color:var(--blue);padding:0 .4em}.math small{display:block;font:12px Aptos,Segoe UI,sans-serif;color:var(--muted)}.feedback,.hint-box{font-family:Cambria,Georgia,serif;font-size:17px}.feedback strong,.hint-box strong{font-family:Aptos,Segoe UI,sans-serif}.primary{background:var(--blue);border-color:var(--blue)}.exponent-row label{font-size:21px}.exponent-row input{width:95px}.brand{min-width:0}.top{gap:15px}.top .quiet{flex-shrink:0}
 @media(max-width:430px){.bottom{flex-wrap:wrap}.bottom .actions{margin-left:auto}.board{min-height:150px;padding:15px 9px}.equation{font-size:27px}.input-row{gap:9px}.choices{grid-template-columns:1fr 1fr}.choice{min-width:0}.choice .math{font-size:20px}.top{padding:0 14px}.brand strong{font-size:14px}.brand .brand-math{font-size:28px}.brand{gap:9px}main{padding:19px 16px 10px}}
+
+.progress i.optional{background-image:repeating-linear-gradient(90deg,transparent 0 5px,var(--paper) 5px 8px)}
+.choice .math{min-width:0}.choice .math sup{line-height:0}.feedback sup,.hint-box sup{font-size:.72em}
+@media(max-width:430px){.choices:has(.fraction){grid-template-columns:1fr 1fr}}

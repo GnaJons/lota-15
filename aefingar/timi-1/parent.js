@@ -5,10 +5,7 @@
     const frame = panel.querySelector('iframe[data-src]');
     if (!frame) return;
     const load = () => {
-      if (panel.open && !frame.hasAttribute('src')) {
-        frame.loading = 'eager';
-        frame.src = frame.dataset.src;
-      }
+      if (panel.open && !frame.hasAttribute('src')) frame.src = frame.dataset.src;
     };
     const fromLink = () => {
       if (location.hash === '#' + panel.id) { panel.open = true; load(); }
@@ -23,4 +20,3 @@
     fromLink(); load();
   });
 })();
-

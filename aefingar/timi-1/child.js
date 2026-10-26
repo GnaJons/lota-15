@@ -11,4 +11,3 @@
   window.addEventListener('load', report);
   report();
 })();
-
